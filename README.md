@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning more about coding and data analysis.
 - 🌱 I’m currently learning more about Python, SQL, JavaScript and data visualisation tools!
 - 📫 How to reach me: www.linkedin.com/in/safa-zia-422698263
-- - 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to paint, crochet, knit and sew :)
 
 <!---
